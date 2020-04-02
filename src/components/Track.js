@@ -24,7 +24,7 @@ const Track = props => {
             className="btn btn-dark btn-block"
           >
             <i className="fas fa-chevron-right" />
-            View Lyric
+            View Lyrics
           </Link>
         </div>
       </div>
