@@ -20,7 +20,7 @@ const Track = props => {
             {track.album_name}
           </p>
           <Link
-            to={`lyrics/tracks/${track.track_id}`}
+            to={`/lyrics/track/${track.track_id}`}
             className="btn btn-dark btn-block"
           >
             <i className="fas fa-chevron-right" />
