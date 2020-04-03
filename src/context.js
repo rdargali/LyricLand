@@ -6,7 +6,7 @@ const Context = React.createContext();
 export class Provider extends Component {
   state = {
     track_list: [],
-    heading: "Today's Top Tracks"
+    heading: "Today's Top 10 Tracks"
   };
 
   componentDidMount() {
