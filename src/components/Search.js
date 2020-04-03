@@ -61,7 +61,7 @@ class Search extends Component {
                   className="btn btn-primary btn-lg btn-block mb-5"
                   type="submit"
                 >
-                  Get Lyric
+                  Get Lyrics
                 </button>
               </form>
             </div>
